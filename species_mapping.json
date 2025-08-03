@@ -1,0 +1,507 @@
+{
+  "0": {
+    "name": "Siberian elm",
+    "count": 216,
+    "scientific_name": "Ulmus pumila"
+  },
+  "1": {
+    "name": "London plane",
+    "count": 186,
+    "scientific_name": "Platanus acerifolia"
+  },
+  "2": {
+    "name": "Honeylocust",
+    "count": 159,
+    "scientific_name": "Gleditsia triacanthos"
+  },
+  "3": {
+    "name": "Austrian pine",
+    "count": 149,
+    "scientific_name": "Pinus nigra"
+  },
+  "4": {
+    "name": "Ash",
+    "count": 148,
+    "scientific_name": "Fraxinus"
+  },
+  "5": {
+    "name": "Crabapple",
+    "count": 127,
+    "scientific_name": "Malus"
+  },
+  "6": {
+    "name": "Chinese elm",
+    "count": 82,
+    "scientific_name": "Ulmus parvifolia"
+  },
+  "7": {
+    "name": "Texas red oak",
+    "count": 73,
+    "scientific_name": "Quercus buckleyi"
+  },
+  "8": {
+    "name": "Elm hybrid",
+    "count": 68,
+    "scientific_name": "Ulmus"
+  },
+  "9": {
+    "name": "Desert willow",
+    "count": 63,
+    "scientific_name": "Chilopsis linearis"
+  },
+  "10": {
+    "name": "Pear",
+    "count": 62,
+    "scientific_name": "Pyrus"
+  },
+  "11": {
+    "name": "Raywood ash",
+    "count": 60,
+    "scientific_name": "Fraxinus oxycarpa"
+  },
+  "12": {
+    "name": "Chinese pistache",
+    "count": 54,
+    "scientific_name": "Pistacia chinensis"
+  },
+  "13": {
+    "name": "Cottonwood",
+    "count": 52,
+    "scientific_name": "Populus deltoides"
+  },
+  "14": {
+    "name": "Ponderosa pine",
+    "count": 47,
+    "scientific_name": "Pinus ponderosa"
+  },
+  "15": {
+    "name": "Golden rain tree",
+    "count": 47,
+    "scientific_name": "Koelreuteria paniculata"
+  },
+  "16": {
+    "name": "Arizona sycamore",
+    "count": 45,
+    "scientific_name": "Platanus wrightii"
+  },
+  "17": {
+    "name": "Bur oak",
+    "count": 41,
+    "scientific_name": "Quercus macrocarpa"
+  },
+  "18": {
+    "name": "Elm",
+    "count": 39,
+    "scientific_name": "Ulmus"
+  },
+  "19": {
+    "name": "American elm",
+    "count": 37,
+    "scientific_name": "Ulmus americana"
+  },
+  "20": {
+    "name": "Deodar cedar",
+    "count": 37,
+    "scientific_name": "Cedrus deodara"
+  },
+  "21": {
+    "name": "Japanese pagoda tree",
+    "count": 35,
+    "scientific_name": "Styphnolobium japonicum"
+  },
+  "22": {
+    "name": "Northern hackberry",
+    "count": 32,
+    "scientific_name": "Celtis occidentalis"
+  },
+  "23": {
+    "name": "White ash",
+    "count": 32,
+    "scientific_name": "Fraxinus americana"
+  },
+  "24": {
+    "name": "Boxelder",
+    "count": 29,
+    "scientific_name": "Acer negundo"
+  },
+  "25": {
+    "name": "Oklahoma redbud",
+    "count": 29,
+    "scientific_name": "Cercis canadensis"
+  },
+  "26": {
+    "name": "Littleleaf linden",
+    "count": 28,
+    "scientific_name": "Tilia cordata"
+  },
+  "27": {
+    "name": "Afghan pine",
+    "count": 26,
+    "scientific_name": "Pinus eldarica"
+  },
+  "28": {
+    "name": "Common chokecherry",
+    "count": 25,
+    "scientific_name": "Prunus virginiana"
+  },
+  "29": {
+    "name": "Green ash",
+    "count": 20,
+    "scientific_name": "Fraxinus pennsylvanica"
+  },
+  "30": {
+    "name": "Blue spruce",
+    "count": 20,
+    "scientific_name": "Picea pungens"
+  },
+  "31": {
+    "name": "Plum",
+    "count": 20,
+    "scientific_name": "Prunus"
+  },
+  "32": {
+    "name": "Arizona cypress",
+    "count": 18,
+    "scientific_name": "Cupressus arizonica"
+  },
+  "33": {
+    "name": "Juniper",
+    "count": 18,
+    "scientific_name": "Juniperus"
+  },
+  "34": {
+    "name": "Velvet ash arizona ash",
+    "count": 16,
+    "scientific_name": "Fraxinus velutina"
+  },
+  "35": {
+    "name": "Pinyon pine",
+    "count": 15,
+    "scientific_name": "Pinus edulis"
+  },
+  "36": {
+    "name": "Shumard oak",
+    "count": 15,
+    "scientific_name": "Quercus shumardii"
+  },
+  "37": {
+    "name": "Bigtooth maple",
+    "count": 14,
+    "scientific_name": "Acer grandidentatum"
+  },
+  "38": {
+    "name": "Bradford pear callery pear",
+    "count": 13,
+    "scientific_name": "Pyrus calleryana"
+  },
+  "39": {
+    "name": "Black locust",
+    "count": 13,
+    "scientific_name": "Robinia pseudoacacia"
+  },
+  "40": {
+    "name": "Catalpa",
+    "count": 12,
+    "scientific_name": "Catalpa"
+  },
+  "41": {
+    "name": "Chinkapin oak",
+    "count": 12,
+    "scientific_name": "Quercus muehlenbergii"
+  },
+  "42": {
+    "name": "Leyland false cypress",
+    "count": 12,
+    "scientific_name": "Cupressus leylandii"
+  },
+  "43": {
+    "name": "Tree of heaven",
+    "count": 12,
+    "scientific_name": "Ailanthus altissima"
+  },
+  "44": {
+    "name": "Vitex",
+    "count": 11,
+    "scientific_name": "Vitex agnus-castus"
+  },
+  "45": {
+    "name": "Scotch pine",
+    "count": 11,
+    "scientific_name": "Pinus sylvestris"
+  },
+  "46": {
+    "name": "Locust",
+    "count": 11,
+    "scientific_name": "Unknown"
+  },
+  "47": {
+    "name": "Broadleaf deciduous small",
+    "count": 11,
+    "scientific_name": "Unknown"
+  },
+  "48": {
+    "name": "Eastern red cedar",
+    "count": 10,
+    "scientific_name": "Juniperus virginiana"
+  },
+  "49": {
+    "name": "New mexico locust",
+    "count": 10,
+    "scientific_name": "Robinia neomexicana"
+  },
+  "50": {
+    "name": "Globe willow",
+    "count": 9,
+    "scientific_name": "Salix matsudana"
+  },
+  "51": {
+    "name": "Kentucky coffeetree",
+    "count": 9,
+    "scientific_name": "Gymnocladus dioicus"
+  },
+  "52": {
+    "name": "Pine",
+    "count": 8,
+    "scientific_name": "Pinus"
+  },
+  "53": {
+    "name": "Mimosa",
+    "count": 8,
+    "scientific_name": "Albizia julibrissin"
+  },
+  "54": {
+    "name": "Chitalpa",
+    "count": 8,
+    "scientific_name": "Chitalpa tashkentensis"
+  },
+  "55": {
+    "name": "Greenstone",
+    "count": 8,
+    "scientific_name": "Ulmus davidiana"
+  },
+  "56": {
+    "name": "Limber pine",
+    "count": 7,
+    "scientific_name": "Pinus flexilis"
+  },
+  "57": {
+    "name": "Cherry plum",
+    "count": 7,
+    "scientific_name": "Prunus cerasifera"
+  },
+  "58": {
+    "name": "Eastern redbud",
+    "count": 7,
+    "scientific_name": "Cercis canadensis"
+  },
+  "59": {
+    "name": "Oak",
+    "count": 6,
+    "scientific_name": "Quercus"
+  },
+  "60": {
+    "name": "Dawn redwood",
+    "count": 6,
+    "scientific_name": "Metasequoia glyptostroboides"
+  },
+  "61": {
+    "name": "Fremont cottonwood",
+    "count": 5,
+    "scientific_name": "Populus fremontii"
+  },
+  "62": {
+    "name": "Osage orange",
+    "count": 5,
+    "scientific_name": "Maclura pomifera"
+  },
+  "63": {
+    "name": "Plains cottonwood",
+    "count": 5,
+    "scientific_name": "Populus sargentii"
+  },
+  "64": {
+    "name": "English oak",
+    "count": 5,
+    "scientific_name": "Quercus robur"
+  },
+  "65": {
+    "name": "Maple",
+    "count": 5,
+    "scientific_name": "Acer"
+  },
+  "66": {
+    "name": "Hardy rubber tree",
+    "count": 4,
+    "scientific_name": "Eucommia ulmoides"
+  },
+  "67": {
+    "name": "Broadleaf deciduous large",
+    "count": 4,
+    "scientific_name": "Unknown"
+  },
+  "68": {
+    "name": "Netleaf hackberry",
+    "count": 4,
+    "scientific_name": "Celtis reticulata"
+  },
+  "69": {
+    "name": "Rocky mountain juniper",
+    "count": 4,
+    "scientific_name": "Juniperus scopulorum"
+  },
+  "70": {
+    "name": "Cedar elm",
+    "count": 4,
+    "scientific_name": "Ulmus crassifolia"
+  },
+  "71": {
+    "name": "Mulberry",
+    "count": 4,
+    "scientific_name": "Morus"
+  },
+  "72": {
+    "name": "Apple",
+    "count": 3,
+    "scientific_name": "Malus domestica"
+  },
+  "73": {
+    "name": "Italian stone pine",
+    "count": 3,
+    "scientific_name": "Pinus pinea"
+  },
+  "74": {
+    "name": "Blue atlas cedar",
+    "count": 3,
+    "scientific_name": "Cedrus atlantica"
+  },
+  "75": {
+    "name": "New mexico olive",
+    "count": 3,
+    "scientific_name": "Forestiera neomexicana"
+  },
+  "76": {
+    "name": "Bristlecone pine",
+    "count": 3,
+    "scientific_name": "Pinus aristata"
+  },
+  "77": {
+    "name": "Ginkgo",
+    "count": 2,
+    "scientific_name": "Ginkgo biloba"
+  },
+  "78": {
+    "name": "Russian olive",
+    "count": 2,
+    "scientific_name": "Elaeagnus angustifolia"
+  },
+  "79": {
+    "name": "Basswood",
+    "count": 2,
+    "scientific_name": "Tilia"
+  },
+  "80": {
+    "name": "Mountain ash",
+    "count": 2,
+    "scientific_name": "Sorbus"
+  },
+  "81": {
+    "name": "Japanese black pine",
+    "count": 2,
+    "scientific_name": "Pinus thunbergii"
+  },
+  "82": {
+    "name": "Lanceleaf cottonwood",
+    "count": 2,
+    "scientific_name": "Populus acuminata"
+  },
+  "83": {
+    "name": "Japanese zelkova",
+    "count": 2,
+    "scientific_name": "Zelkova serrata"
+  },
+  "84": {
+    "name": "Elderberry",
+    "count": 2,
+    "scientific_name": "Sambucus"
+  },
+  "85": {
+    "name": "Amur maple",
+    "count": 2,
+    "scientific_name": "Acer ginnala"
+  },
+  "86": {
+    "name": "Spruce",
+    "count": 1,
+    "scientific_name": "Picea"
+  },
+  "87": {
+    "name": "Conifer evergreen large",
+    "count": 1,
+    "scientific_name": "Unknown"
+  },
+  "88": {
+    "name": "Broadleaf deciduous medium",
+    "count": 1,
+    "scientific_name": "Unknown"
+  },
+  "89": {
+    "name": "Apricot",
+    "count": 1,
+    "scientific_name": "Prunus armeniaca"
+  },
+  "90": {
+    "name": "One seed juniper",
+    "count": 1,
+    "scientific_name": "Juniperus monosperma"
+  },
+  "91": {
+    "name": "Crape myrtle",
+    "count": 1,
+    "scientific_name": "Lagerstroemia"
+  },
+  "92": {
+    "name": "Silver maple",
+    "count": 1,
+    "scientific_name": "Acer saccharinum"
+  },
+  "93": {
+    "name": "Quaking aspen",
+    "count": 1,
+    "scientific_name": "Populus tremuloides"
+  },
+  "94": {
+    "name": "Northern catalpa",
+    "count": 1,
+    "scientific_name": "Catalpa speciosa"
+  },
+  "95": {
+    "name": "American holly",
+    "count": 1,
+    "scientific_name": "Ilex opaca"
+  },
+  "96": {
+    "name": "American basswood",
+    "count": 1,
+    "scientific_name": "Tilia americana"
+  },
+  "97": {
+    "name": "Red mulberry",
+    "count": 1,
+    "scientific_name": "Morus rubra"
+  },
+  "98": {
+    "name": "Douglas fir",
+    "count": 1,
+    "scientific_name": "Pseudotsuga menziesii"
+  },
+  "99": {
+    "name": "Norway maple",
+    "count": 1,
+    "scientific_name": "Acer platanoides"
+  },
+  "100": {
+    "name": "Northern red oak",
+    "count": 1,
+    "scientific_name": "Quercus rubra"
+  }
+}
